@@ -1,6 +1,7 @@
+<link href="/css/style.css" rel="stylesheet"/>
 # Hi there 👋 
 
-<img width="25%" align="right" alt="Github" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/undraw_feeling_proud_qne1.svg" />
+<img width="25%" align="right" alt="Github" src="/icons/undraw_feeling_proud_qne1.svg" />
 
 ### I'm Caetano and I love to build cool things for the internet
 
@@ -26,22 +27,25 @@ Fire Department of Tocantins as a Full Stack Web Developer.
 
 ### 💬 Some languages and tools I like to use
 
-  <code><img height="30px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/php.svg" alt="Php"></code>
-  <code><img height="30px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/javascript.svg" alt="Javascript"></code>
-  <code><img height="30px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/groovy.svg" alt="Groovy"></code>
-  <code><img height="30px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/react.svg" alt="React"></code>
-  <code><img height="30px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/grails.svg" alt="Grails"></code>
-  <code><img height="30px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/cplusplus.svg" alt="C plus plus"></code>
-  <code><img height="30px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/html.svg" alt="Html"></code>
-  <code><img height="30px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/css.svg" alt="Css"></code>
-  <code><img height="30px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/bootstrap.svg" alt="Bootstrap"></code>
-  <code><img height="30px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/arduino.svg" alt="Arduíno"></code>
-  <code><img height="30px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/figma.svg" alt="Figma"></code>
-  <code><img height="30px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/git.svg" alt="Git"></code>
-  <code><img height="30px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/json.svg" alt="Json"></code>
-  <code><img height="30px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/trello.svg" alt="Trello"></code>
-  <code><img height="30px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/woocommerce.svg" alt="Woocommerce"></code>
-  <code><img height="30px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/wordpress.svg" alt="Wordpress"></code>
+  <code><img height="50px" class="my-button" src="/icons/php.svg" alt="Php"></code>
+  <code><img height="50px" src="/icons/mysql.svg" alt="MySql"></code>
+  <code><img height="50px" src="/icons/javascript.svg" alt="Javascript"></code>
+  <code><img height="50px" src="/icons/groovy.svg" alt="Groovy"></code>
+  <code><img height="50px" src="/icons/react.svg" alt="React"></code>
+  <code><img height="50px" src="/icons/grails.svg" alt="Grails"></code>
+  <code><img height="50px" src="/icons/cplusplus.svg" alt="C plus plus"></code>
+  <code><img height="50px" src="/icons/html.svg" alt="Html"></code>
+  <code><img height="50px" src="/icons/css.svg" alt="Css"></code>
+  <code><img height="50px" src="/icons/bootstrap.svg" alt="Bootstrap"></code>
+  <code><img height="50px" src="/icons/arduino.svg" alt="Arduíno"></code>
+  <code><img height="50px" src="/icons/figma.svg" alt="Figma"></code>
+  <code><img height="50px" src="/icons/git.svg" alt="Git"></code>
+  <code><img height="50px" src="/icons/json.svg" alt="Json"></code>
+  <code><img height="50px" src="/icons/trello.svg" alt="Trello"></code>
+  <code><img height="50px" src="/icons/woocommerce.svg" alt="Woocommerce"></code>
+  <code><img height="50px" src="/icons/wordpress.svg" alt="Wordpress"></code>
+  <code><img height="50px" src="/icons/phpstorm.svg" alt="PhpStorm"></code>
+  <code><img height="50px" src="/icons/visualstudio.svg" alt="Visual Studio Code"></code>
 
 
 ### 📫 How to reach me:
@@ -50,3 +54,5 @@ Fire Department of Tocantins as a Full Stack Web Developer.
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caetano.burjack@gmail.com)](mailto:caetano.burjack@gmail.com)
 
 
+---
+Last update: 2020-08-16
