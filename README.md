@@ -53,3 +53,5 @@ Fire Department of Tocantins as a Full Stack Web Developer.
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caetano.burjack@gmail.com)](mailto:caetano.burjack@gmail.com)
 
 
+---
+Last update: 2020-08-16
