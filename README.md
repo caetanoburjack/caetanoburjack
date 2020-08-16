@@ -11,7 +11,8 @@
 &nbsp;
 
 ### I’m currently working on 
-Fire Department of Tocantins as a Full Stack Web Developer.
+- Fire Department of Tocantins as a Full Stack Web Developer
+- My new project deTudo.app. You can see it at https://detudo.app/apresentacao
 
 &nbsp;
 &nbsp;
