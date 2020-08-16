@@ -25,15 +25,6 @@
 &nbsp;
 &nbsp;
 
-## I’m currently learning ...
-- Node
-- React
-- React Native
-- I'm taking the RocketSeat GoStack Bootcamp
-
-&nbsp;
-&nbsp;
-
 ## Some languages and tools I like to use
 
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/php.svg" alt="Php"></code>
@@ -58,6 +49,17 @@
 
 &nbsp;
 &nbsp;
+
+## I’m currently learning ...
+- Node
+- React
+- React Native
+- I'm taking the RocketSeat GoStack Bootcamp
+
+&nbsp;
+&nbsp;
+
+
 
 ## How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caetanoburjack)](https://www.linkedin.com/in/caetanoburjack) 
