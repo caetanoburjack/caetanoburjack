@@ -10,21 +10,30 @@
 &nbsp;
 &nbsp;
 
-### 🔭 I’m currently working on 
+### I’m currently working on 
 Fire Department of Tocantins as a Full Stack Web Developer.
-  
-### Projects I'm most proud of
+
+&nbsp;
+&nbsp;
+
+## Projects I'm most proud of
 - SIOCB - Fire Department Operations System that allows to manage all operational activities of the fire department.
 - NERO - Mini submarine for underwater inspections using arduino. You can see it at https://nero.caetanoburjack.com.
 - DeTudo.app - Digital catalog with orders via whatsapp. Visit at https://detudo.app
 
-### 🌱 I’m currently learning ...
+&nbsp;
+&nbsp;
+
+## I’m currently learning ...
 - Node
 - React
 - React Native
 - I'm taking the RocketSeat GoStack Bootcamp
 
-### 💬 Some languages and tools I like to use
+&nbsp;
+&nbsp;
+
+## Some languages and tools I like to use
 
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/php.svg" alt="Php"></code>
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/mysql.svg" alt="MySql"></code>
@@ -41,16 +50,21 @@ Fire Department of Tocantins as a Full Stack Web Developer.
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/git.svg" alt="Git"></code>
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/json.svg" alt="Json"></code>
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/trello.svg" alt="Trello"></code>
+  <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/woocommerce.svg" alt="WooCommerce"></code>
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/wordpress.svg" alt="Wordpress"></code>
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/phpstorm.svg" alt="PhpStorm"></code>
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/visualstudio.svg" alt="Visual Studio Code"></code>
 
+&nbsp;
+&nbsp;
 
-### 📫 How to reach me:
+## How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caetanoburjack)](https://www.linkedin.com/in/caetanoburjack) 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=google-chrome&logoColor=white&color=0A637E)](https://caetanoburjack.com) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caetano.burjack@gmail.com)](mailto:caetano.burjack@gmail.com)
 
+&nbsp;
+&nbsp;
 
 ---
 Last update: 2020-08-16
