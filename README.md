@@ -33,7 +33,6 @@ Fire Department of Tocantins as a Full Stack Web Developer.
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/react.svg" alt="React"></code>
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/grails.svg" alt="Grails"></code>
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/cplusplus.svg" alt="C plus plus"></code>
-  <br />
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/html.svg" alt="Html"></code>
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/css.svg" alt="Css"></code>
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/bootstrap.svg" alt="Bootstrap"></code>
@@ -41,9 +40,7 @@ Fire Department of Tocantins as a Full Stack Web Developer.
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/figma.svg" alt="Figma"></code>
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/git.svg" alt="Git"></code>
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/json.svg" alt="Json"></code>
-  <br />
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/trello.svg" alt="Trello"></code>
-  <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/woocommerce.svg" alt="Woocommerce"></code>
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/wordpress.svg" alt="Wordpress"></code>
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/phpstorm.svg" alt="PhpStorm"></code>
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/visualstudio.svg" alt="Visual Studio Code"></code>
