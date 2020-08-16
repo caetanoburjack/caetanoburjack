@@ -1,5 +1,3 @@
-<code><link href="https://github.com/caetanoburjack/caetanoburjack/blob/master/css/style.css" rel="stylesheet"/></code>
-
 # Hi there 👋 
 
 <img width="25%" align="right" alt="Github" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/undraw_feeling_proud_qne1.svg" />
@@ -28,13 +26,14 @@ Fire Department of Tocantins as a Full Stack Web Developer.
 
 ### 💬 Some languages and tools I like to use
 
-  <code><img height="50px" class="my-button" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/php.svg" alt="Php"></code>
+  <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/php.svg" alt="Php"></code>
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/mysql.svg" alt="MySql"></code>
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/javascript.svg" alt="Javascript"></code>
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/groovy.svg" alt="Groovy"></code>
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/react.svg" alt="React"></code>
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/grails.svg" alt="Grails"></code>
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/cplusplus.svg" alt="C plus plus"></code>
+  <br />
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/html.svg" alt="Html"></code>
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/css.svg" alt="Css"></code>
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/bootstrap.svg" alt="Bootstrap"></code>
@@ -42,6 +41,7 @@ Fire Department of Tocantins as a Full Stack Web Developer.
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/figma.svg" alt="Figma"></code>
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/git.svg" alt="Git"></code>
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/json.svg" alt="Json"></code>
+  <br />
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/trello.svg" alt="Trello"></code>
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/woocommerce.svg" alt="Woocommerce"></code>
   <code><img height="50px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/wordpress.svg" alt="Wordpress"></code>
