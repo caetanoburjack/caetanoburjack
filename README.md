@@ -27,6 +27,7 @@ Fire Department of Tocantins as a Full Stack Web Developer.
 ### 💬 Some languages and tools I like to use
 
   <code><img height="30px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/php.svg" alt="Php"></code>
+  <code><img height="30px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/mysql.svg" alt="MySql"></code>
   <code><img height="30px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/javascript.svg" alt="Javascript"></code>
   <code><img height="30px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/groovy.svg" alt="Groovy"></code>
   <code><img height="30px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/react.svg" alt="React"></code>
@@ -42,6 +43,8 @@ Fire Department of Tocantins as a Full Stack Web Developer.
   <code><img height="30px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/trello.svg" alt="Trello"></code>
   <code><img height="30px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/woocommerce.svg" alt="Woocommerce"></code>
   <code><img height="30px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/wordpress.svg" alt="Wordpress"></code>
+  <code><img height="30px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/phpstorm.svg" alt="PhpStorm"></code>
+  <code><img height="30px" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/visualstudio.svg" alt="Visual Studio Code"></code>
 
 
 ### 📫 How to reach me:
