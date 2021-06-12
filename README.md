@@ -12,14 +12,14 @@
 
 ### I’m currently working on 
 - Fire Department of Tocantins as a Full Stack Web Developer
-- My new project deTudo.app. You can see it at https://detudo.app/apresentacao
+- My newer project deTudo.app. You can see it at https://detudo.app/apresentacao
 
 &nbsp;
 &nbsp;
 
 ## Projects I'm most proud of
 - SIOCB - Fire Department Operations System that allows to manage all operational activities of the fire department.
-- NERO - Mini submarine for underwater inspections using arduino. You can see it at https://nero.caetanoburjack.com.
+- NERO - Mini submarine for underwater inspections using arduino.
 - DeTudo.app - Digital catalog with orders via whatsapp. Visit at https://detudo.app
 
 &nbsp;
