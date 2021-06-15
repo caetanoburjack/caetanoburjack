@@ -2,7 +2,7 @@
 
 <img width="25%" align="right" alt="Github" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/undraw_feeling_proud_qne1.svg" />
 
-### I'm Caetano Burjack and I love to build cool things for the internet
+### I'm Caetano and I love to build cool things for the internet
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caetanoburjack)](https://www.linkedin.com/in/caetanoburjack) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caetano.burjack@gmail.com)](mailto:caetano.burjack@gmail.com)
