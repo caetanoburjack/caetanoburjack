@@ -50,11 +50,11 @@
 &nbsp;
 &nbsp;
 
-## I’m currently learning ...
-- Node.js
-- React
+## Currently I’m focused on ...
+- NodeJS
+- ReactJS
 - React Native
-- I'm taking the RocketSeat GoStack Bootcamp
+
 
 &nbsp;
 &nbsp;
