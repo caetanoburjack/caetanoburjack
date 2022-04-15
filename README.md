@@ -1,5 +1,3 @@
-<img width="30%" align="right" alt="Github" src="icons/coding.gif" alt="Coding"/>
-
 ## I'm Caetano Burjack and I love to build cool things for the internet.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caetanoburjack)
