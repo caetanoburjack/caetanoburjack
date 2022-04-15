@@ -1,4 +1,4 @@
-<img width="25%" align="right" alt="Github" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/undraw_feeling_proud_qne1.svg" />
+<img width="25%" align="right" alt="Github" src="icons/undraw_feeling_proud_qne1.svg" />
 
 ## I'm Caetano Burjack and I love to build cool things for the internet.
 
