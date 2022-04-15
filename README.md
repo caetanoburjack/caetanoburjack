@@ -6,7 +6,7 @@
 &nbsp;
 &nbsp;
 
-### I’m currently working on:
+### I’m currently working on
 - Fire Department of Tocantins as a Full Stack Web Developer;
 - My newest project, deTudo.app. You can see it at https://detudo.app/apresentacao.
 
@@ -63,7 +63,7 @@
 &nbsp;
 &nbsp;
 
-## Currently I’m focused on ...
+## Currently I’m focused on
 - Node.JS, React, Vanilla JS and Clean Code.
 
 &nbsp;
@@ -80,12 +80,10 @@
 &nbsp;
 &nbsp;
 
-## How to reach me:
+## How to reach me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caetanoburjack)](https://www.linkedin.com/in/caetanoburjack)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=google-chrome&logoColor=white&color=0A637E)](https://caetanoburjack.com)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caetano.burjack@gmail.com)](mailto:caetano.burjack@gmail.com)
 
 &nbsp;
 &nbsp;
----
-Last update: 2022-04-15
