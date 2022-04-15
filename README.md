@@ -1,6 +1,6 @@
 <img width="25%" align="right" alt="Github" src="https://github.com/caetanoburjack/caetanoburjack/blob/master/icons/undraw_feeling_proud_qne1.svg" />
 
-### I'm Caetano and I love to build cool things for the internet.
+## I'm Caetano Burjack and I love to build cool things for the internet.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caetanoburjack)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caetano.burjack@gmail.com)
@@ -72,6 +72,15 @@
 &nbsp;
 
 
+## Some of my stats on GitHub
+
+<img width="295px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caetanoburjack&hide=Objective-C,starlark,shell,ruby&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /> <img width="405px" src="https://github-readme-streak-stats.herokuapp.com/?user=caetanoburjack&theme=react&border=61dafb&hide_border=true" alt="caetanoburjack" /> <img width="275px" src="https://github-readme-stats.vercel.app/api?username=caetanoburjack&show_icons=true&hide_rank=true&theme=react&border_color=61dafb&hide_border=true" />
+
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=caetanoburjack&theme=react-dark&bg_color=20232a&hide_border=true"/>
+
+
+&nbsp;
+&nbsp;
 
 ## How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caetanoburjack)](https://www.linkedin.com/in/caetanoburjack)
@@ -80,6 +89,5 @@
 
 &nbsp;
 &nbsp;
-
 ---
 Last update: 2022-04-15
