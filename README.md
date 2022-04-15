@@ -1,4 +1,4 @@
-<img width="25%" align="right" alt="Github" src="icons/giphy.gif" alt="Coding"/>
+<img width="30%" align="right" alt="Github" src="icons/coding.gif" alt="Coding"/>
 
 ## I'm Caetano Burjack and I love to build cool things for the internet.
 
