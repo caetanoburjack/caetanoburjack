@@ -1,4 +1,4 @@
-## I'm Caetano Burjack and I love to build cool things for the internet.
+## What's up! I'm Caetano Burjack and I love to build cool things for the internet.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caetanoburjack)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caetano.burjack@gmail.com)
@@ -6,17 +6,20 @@
 &nbsp;
 &nbsp;
 
-### I’m currently working on
+**[You can see my resume here!](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/23bb5666-525d-4690-83e3-1c80c2ecc3d3?view=html)**
+
+
+## I’m currently working on
 - Fire Department of Tocantins as a Full Stack Web Developer;
-- My newest project, deTudo.app. You can see it at https://detudo.app/apresentacao.
+- My newest personal project, deTudo.app. You can see it at https://detudo.app/apresentacao.
 
 &nbsp;
 &nbsp;
 
 ## Projects I'm most proud of
 - deTudo.app - E-commerce with orders via whatsapp. Visit at https://detudo.app/apresentacao
-- SIOCB - Fire Department Operations System that allows to manage all operational activities of the fire department.
-- NERO - Mini submarine for underwater inspections using arduino.
+- SiOCB - Fire Department Operations System that allows to manage all operational activities of the fire department.
+- NERO - Mini submarine for underwater inspections using Arduino.
 
 &nbsp;
 &nbsp;
