@@ -6,11 +6,11 @@
 &nbsp;
 &nbsp;
 
-**[You can see my resume here!](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/23bb5666-525d-4690-83e3-1c80c2ecc3d3?view=html)**
+**[You can see my resume here! (Updated in August 2022)](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/2e6af4a2-965b-4a5d-a4c9-2066dfa1bcdf?view=html)**
 
 
 ## I’m currently working on
-- Fire Department of Tocantins as a Full Stack Web Developer;
+- Aubay Portugal;
 - My newest personal project, deTudo.app. You can see it at https://detudo.app/apresentacao.
 
 &nbsp;
