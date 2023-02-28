@@ -1,4 +1,4 @@
-## What's up! I'm Caetano Burjack and I love to build cool things for the internet.
+## What's up! I'm Caetano Burjack and I like to build cool things for the internet.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caetanoburjack)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caetano.burjack@gmail.com)
@@ -10,7 +10,7 @@
 
 
 ## I’m currently working on
-- Aubay Portugal;
+- Aubay Portugal. Visit the company at https://aubay.pt/;
 - My newest personal project, deTudo.app. You can see it at https://detudo.app/apresentacao.
 
 &nbsp;
@@ -43,6 +43,7 @@
 <img src="https://img.shields.io/badge/Next.js-404D59?style=for-the-badge&logo=next.js&logoColor=white&color=black" alt="NextJS">
 <img src="https://img.shields.io/badge/Json-404D59?style=for-the-badge&logo=json&logoColor=black&color=EBD13A" alt="Json">
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+<img src="https://img.shields.io/badge/Symfony-FF2D20?style=for-the-badge&logo=symfony&logoColor=black&color=white" alt="Symfony">
 <img src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=white&color=734EA9" alt="Bootstrap">
 <img src="https://img.shields.io/badge/WooCommerce-20232A?style=for-the-badge&logo=woo&logoColor=935788&color=white" alt="WooCommerce">
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="Jquery">
