@@ -78,9 +78,6 @@
 
 <img width="295px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caetanoburjack&hide=Objective-C,starlark,shell,ruby&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /> <img width="405px" src="https://github-readme-streak-stats.herokuapp.com/?user=caetanoburjack&theme=react&border=61dafb&hide_border=true" alt="caetanoburjack" /> <img width="275px" src="https://github-readme-stats.vercel.app/api?username=caetanoburjack&show_icons=true&hide_rank=true&theme=react&border_color=61dafb&hide_border=true" />
 
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=caetanoburjack&theme=react-dark&bg_color=20232a&hide_border=true"/>
-
-
 &nbsp;
 &nbsp;
 
