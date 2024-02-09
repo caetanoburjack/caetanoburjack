@@ -6,30 +6,30 @@
 &nbsp;
 &nbsp;
 
-**[You can see my resume here! (Updated in February 2024)]([https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/2e6af4a2-965b-4a5d-a4c9-2066dfa1bcdf?view=html](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/caetano+finisterre-burjack+da+silva/48347a8b-e87f-4b57-a61b-415a4356de5e?view=html))**
+**[You can see my resume here! (Updated in February 2024)](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/caetano+finisterre-burjack+da+silva/48347a8b-e87f-4b57-a61b-415a4356de5e?view=html)**
 
 
 ## I’m currently working on
-- I returned to work at the Tocantins Military Fire Department.
-- My newest personal project, deTudo.app. You can see it at https://detudo.app.
+- Tocantins Military Fire Department.
+- My personal project: deTudo.app. You can see it at https://detudo.app.
 
 ## Experience
-- Aubay Portugal. Visit the company at [https://aubay.pt/](https://www.axians.pt/);
-- Axians Portugal. Visit the company at [https://axians.pt/](https://www.axians.pt/);
-- Fiducial Braga.;
+- [Senior Consultant at Aubay Portugal.](https://www.axians.pt/)
+- [Fullstack Web Developer at Axians Portugal.](https://www.axians.pt/)
+- Fullstack Web Developer at Fiducial Braga.
 
 &nbsp;
 &nbsp;
 
 ## Projects I'm most proud of
 - deTudo.app - E-commerce with orders via whatsapp. Visit at https://detudo.app/apresentacao
-- SiOCB - Fire Department Operations System that allows to manage all operational activities of the fire department.
-- NERO - Mini submarine for underwater inspections using Arduino.
+- SiOCB - System that allows to manage all operational activities of the Fire Department.
+- NERO - Mini submarine (ROV) for underwater inspections using Arduino.
 
 &nbsp;
 &nbsp;
 
-## Some languages and tools I like to use
+## some languages and tools I have experience with
 
 ### BackEnd
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Php"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"> 
@@ -73,7 +73,7 @@
 &nbsp;
 
 ## Currently I’m focused on
-- Node.JS, React, Vanilla JS and Clean Code.
+-  Best Practices of Software Development, Management and Entrepreneurship.
 
 &nbsp;
 &nbsp;
