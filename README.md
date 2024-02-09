@@ -6,12 +6,17 @@
 &nbsp;
 &nbsp;
 
-**[You can see my resume here! (Updated in August 2022)](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/2e6af4a2-965b-4a5d-a4c9-2066dfa1bcdf?view=html)**
+**[You can see my resume here! (Updated in February 2024)]([https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/2e6af4a2-965b-4a5d-a4c9-2066dfa1bcdf?view=html](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/caetano+finisterre-burjack+da+silva/48347a8b-e87f-4b57-a61b-415a4356de5e?view=html))**
 
 
 ## I’m currently working on
-- Aubay Portugal. Visit the company at https://aubay.pt/;
-- My newest personal project, deTudo.app. You can see it at https://detudo.app/apresentacao.
+- I returned to work at the Tocantins Military Fire Department.
+- My newest personal project, deTudo.app. You can see it at https://detudo.app.
+
+## Experience
+- Aubay Portugal. Visit the company at [https://aubay.pt/](https://www.axians.pt/);
+- Axians Portugal. Visit the company at [https://axians.pt/](https://www.axians.pt/);
+- Fiducial Braga.;
 
 &nbsp;
 &nbsp;
