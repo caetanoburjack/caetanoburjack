@@ -8,28 +8,27 @@
 
 **[You can see my resume here! (Updated in February 2024)](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/caetano+finisterre-burjack+da+silva/48347a8b-e87f-4b57-a61b-415a4356de5e?view=html)**
 
-
 ## I’m currently working on
 - Tocantins Military Fire Department.
-- My personal project: deTudo.app. You can see it at https://detudo.app.
+- [DeTudo project](https://detudo.app).
 
 ## Experience
-- [Senior Consultant at Aubay Portugal.](https://www.axians.pt/)
-- [Fullstack Web Developer at Axians Portugal.](https://www.axians.pt/)
+- Senior Consultant at [Aubay Portugal](https://www.axians.pt/).
+- Fullstack Web Developer at [Axians Portugal](https://www.axians.pt/).
 - Fullstack Web Developer at Fiducial Braga.
 
 &nbsp;
 &nbsp;
 
 ## Projects I'm most proud of
-- deTudo.app - E-commerce with orders via whatsapp. Visit at https://detudo.app/apresentacao
+- [deTudo.app](https://detudo.app) - Marketplace with orders via whatsapp.
 - SiOCB - System that allows to manage all operational activities of the Fire Department.
 - NERO - Mini submarine (ROV) for underwater inspections using Arduino.
 
 &nbsp;
 &nbsp;
 
-## some languages and tools I have experience with
+## Some languages and tools I have experience with
 
 ### BackEnd
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Php"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"> 
@@ -41,7 +40,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=black" alt="React">
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&color=F25221" alt="Html">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&color=244AD9" alt="Css">
-
 
 ### Frameworks and Libs
 <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=black" alt="ReactJS"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=node.js&logoColor=white" alt="ExpressJS">
@@ -67,8 +65,6 @@
 <img src="https://img.shields.io/badge/Postman-100000?style=for-the-badge&logo=postman&logoColor=white&color=F26634" alt="Postman">
 <img src="https://img.shields.io/badge/Vivaldi-100000?style=for-the-badge&logo=vivaldi&logoColor=white&color=EF3939" alt="Vivaldi">
 
-
-
 &nbsp;
 &nbsp;
 
@@ -77,7 +73,6 @@
 
 &nbsp;
 &nbsp;
-
 
 ## Some of my stats on GitHub
 
