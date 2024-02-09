@@ -9,8 +9,8 @@
 **[Você pode ver meu currículo aqui! (Updated in February 2024)](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/caetano+finisterre-burjack+da+silva/48347a8b-e87f-4b57-a61b-415a4356de5e?view=html)**
 
 ## Atualmente estou trabalhando no:
-- Tocantins Military Fire Department.
-- [DeTudo project](https://detudo.app).
+- Corpo de Bombeiros Militar do Tocantins.
+- [Projeto deTudo](https://detudo.app).
 
 ## Experiência
 - Consultor Sênior na [Aubay Portugal](https://www.axians.pt/).
