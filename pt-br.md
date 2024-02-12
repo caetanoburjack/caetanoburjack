@@ -1,6 +1,4 @@
-
-
-[![Static Badge](https://img.shields.io/badge/Perfil%20em%20Portugu%C3%AAs?style=flat-square)[(https://github.com/caetanoburjack)
+[![badge](https://img.shields.io/badge/View_in_-English-black.svg?style=for-the-badge&logo=Git&logoColor=000000&labelColor=ffffff)](https://github.com/caetanoburjack/)
 
 ## E aí, dev! Sou o Caetano e gosto de criar coisas legais para a internet.
 
