@@ -8,11 +8,14 @@
 &nbsp;
 &nbsp;
 
-**[You can see my resume here! (Updated in February 2024)](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/caetano+finisterre-burjack+da+silva/48347a8b-e87f-4b57-a61b-415a4356de5e?view=html)**
+<!--[You can see my resume here! (Updated in February 2024)](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/caetano+finisterre-burjack+da+silva/48347a8b-e87f-4b57-a61b-415a4356de5e?view=html)-->
 
 ## I’m currently working on
 - Tocantins Military Fire Department.
-- [DeTudo project](https://detudo.app).
+  - [SiOCB](https://surgiu.com.br/2021/10/19/no-dia-do-profissional-de-ti-cbm-comemora-o-sucesso-do-novo-sistema-de-registros-de-ocorrencias/). 
+- BeS Software Company
+  - [deTudo](https://detudo.app).
+  - [Via Esporte](https://viaesporte.com).
 
 ## Experience
 - Senior Consultant at [Aubay Portugal](https://www.axians.pt/).
@@ -23,9 +26,10 @@
 &nbsp;
 
 ## Projects I'm most proud of
-- [deTudo.app](https://detudo.app) - Marketplace with orders via whatsapp.
-- SiOCB - System that allows to manage all operational activities of the Fire Department.
-- NERO - Mini submarine (ROV) for underwater inspections using Arduino.
+- [deTudo.app](https://detudo.app): Marketplace with orders via whatsapp.
+- SiOCB: System that allows to manage all operational activities of the Fire Department.
+- NERO: Mini submarine (ROV) for underwater inspections using Arduino.
+- Via Esporte: Tool focused on registrations for sporting events.
 
 &nbsp;
 &nbsp;
