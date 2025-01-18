@@ -8,11 +8,14 @@
 &nbsp;
 &nbsp;
 
-**[Você pode ver meu currículo aqui! (Updated in February 2024)](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/caetano+finisterre-burjack+da+silva/48347a8b-e87f-4b57-a61b-415a4356de5e?view=html)**
+<!--**[Você pode ver meu currículo aqui! (Updated in February 2024)](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/caetano+finisterre-burjack+da+silva/48347a8b-e87f-4b57-a61b-415a4356de5e?view=html)**-->
 
 ## Atualmente estou trabalhando no:
 - Corpo de Bombeiros Militar do Tocantins.
-- [Projeto deTudo](https://detudo.app).
+  - [SiOCB](https://surgiu.com.br/2021/10/19/no-dia-do-profissional-de-ti-cbm-comemora-o-sucesso-do-novo-sistema-de-registros-de-ocorrencias/). 
+- Empresa BeS Software
+  - [deTudo](https://detudo.app).
+  - [Via Esporte](https://viaesporte.com).
 
 ## Experiência
 - Consultor Sênior na [Aubay Portugal](https://www.axians.pt/).
@@ -23,9 +26,10 @@
 &nbsp;
 
 ## Projetos que mais me orgulho:
-- [deTudo.app](https://detudo.app) - Marketplace com pedidos via WhatsApp.
-- SiOCB - Sistema que permite gerenciar todas as atividades operacionais do Corpo de Bombeiros.
-- NERO - Mini submarino (ROV) para inspeções subaquáticas usando Arduíno.
+- [deTudo.app](https://detudo.app): Marketplace com pedidos via WhatsApp.
+- SiOCB: Sistema que permite gerenciar todas as atividades operacionais do Corpo de Bombeiros.
+- NERO: Mini submarino (ROV) para inspeções subaquáticas usando Arduíno.
+- [Via Esporte](https://viaesporte.com): Plataforma focada em inscrições para eventos esportivos.
 
 &nbsp;
 &nbsp;
