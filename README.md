@@ -1,4 +1,4 @@
-v[![badge](https://img.shields.io/badge/Ver_em-Português-black.svg?style=for-the-badge&logo=Git&logoColor=000000&labelColor=ffffff)](https://github.com/caetanoburjack/caetanoburjack/blob/master/pt-br.md)
+[![badge](https://img.shields.io/badge/Ver_em-Português-black.svg?style=for-the-badge&logo=Git&logoColor=000000&labelColor=ffffff)](https://github.com/caetanoburjack/caetanoburjack/blob/master/pt-br.md)
 
 ## What's up! I'm Caetano Burjack and I like to build cool things for the internet.
 
