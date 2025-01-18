@@ -1,4 +1,4 @@
-[![badge](https://img.shields.io/badge/Ver_em-Português-black.svg?style=for-the-badge&logo=Git&logoColor=000000&labelColor=ffffff)](https://github.com/caetanoburjack/caetanoburjack/blob/master/pt-br.md)
+v[![badge](https://img.shields.io/badge/Ver_em-Português-black.svg?style=for-the-badge&logo=Git&logoColor=000000&labelColor=ffffff)](https://github.com/caetanoburjack/caetanoburjack/blob/master/pt-br.md)
 
 ## What's up! I'm Caetano Burjack and I like to build cool things for the internet.
 
@@ -29,7 +29,7 @@
 - [deTudo.app](https://detudo.app): Marketplace with orders via whatsapp.
 - SiOCB: System that allows to manage all operational activities of the Fire Department.
 - NERO: Mini submarine (ROV) for underwater inspections using Arduino.
-- Via Esporte: Tool focused on registrations for sporting events.
+- [Via Esporte](https://viaesporte.com): Platform focused on registrations for sporting events.
 
 &nbsp;
 &nbsp;
